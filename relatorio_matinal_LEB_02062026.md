@@ -20,6 +20,7 @@
 - **[PR2026_...]** — Muralhas Alcantarilha: preparar proposta. Cliente: [...]
 - **[PR2026_...]** — Forte Bandeira: preparar proposta. Cliente: [...]
 - **[PR2026_...]** — Loja Quinta do Lago: preparar proposta. Cliente: [...]
+- **[PR2026_...]** — Colégio Universitário de Évora: preparar proposta. Cliente: [...]
 
 ---
 
