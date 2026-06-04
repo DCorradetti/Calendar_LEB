@@ -10,6 +10,7 @@
 - **032 — Taludes CM1145 (CM Portimão):** em acompanhamento por Alexandre Pinto.
 - **035 — Castelo de Elvas Monumenta:** em acompanhamento por Alexandre Pinto.
 - **037 — APS Digital Twin:** novo trabalho aberto; ficheiros base criados a partir da proposta PR202617.
+- **038 — Daltech Solutions — Centro Comercial Buganvilia:** novo trabalho ativo.
 
 > ⏸️ **Trabalhos em pausa:** sem registos atuais.
 
