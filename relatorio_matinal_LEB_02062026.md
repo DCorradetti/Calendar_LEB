@@ -19,6 +19,8 @@
 - Forte Bandeira Lagos
 - PR202626 — Escola Saboia
 - PR202627 — Colégio Jesuitas Universidade Évora
+- Preventivo Lagos
+- Preventivo Évora
 
 ---
 
@@ -26,6 +28,14 @@
 
 - **PR202625 — Museu Lagos**
 - **PR2026XX — Moinho**
+
+---
+
+## 4. Agenda — Terça-feira 30/06/2026
+
+- **09h00** — Entregar Convento S. José
+- **10h00** — Escola Saboia
+- **10h30** — Declaração de não dívidas
 
 ---
 
